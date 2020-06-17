@@ -38,6 +38,28 @@ Baseado no valor obtido através desse cálculo exibe as seguintes mensagens:
     </p> 
 
 
+### Calculadora de aposentadoria
+
+Programa para calcular a aposentadoria de uma pessoa.
+
+Calcula se a pessoa está apta ou não para se aposentar e no fim imprime uma mensagem em tela.
+
+- O tempo de contribuição mínimo para **homens** é de **35 anos** e, para **mulheres**, **30 anos**;
+- Utilizando a regra 85-95, a soma da idade com o tempo de contribuição do **homem** precisa ser de no mínimo 95 anos, enquanto a **mulher** precisa ter no mínimo 85 anos na soma;
+
+Imprime na tela:
+
+- `SE` a pessoa estiver aposentada;
+- `SE` a pessoa NÃO estiver aposentada;
+
++ `SE` contribui pelo tempo certo mostra com quantos anos poderá se aposentar;
++ `SE` Atingiu a idade correta mostra quantos anos ainda precisa contribuir;
+
+<p align="center">
+      <img alt="Código da calculadora de Aposentadoria" src="img/calculadoraAposentadoria.png" width="400px" />
+    </p> 
+
+
 
 ---
 
