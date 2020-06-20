@@ -16,7 +16,8 @@
 
 </p>
 
-## :rocket: Desafios
+
+## :rocket: Desafios 1-1
 
 Conceitos abordados:
 
@@ -57,7 +58,27 @@ Imprime na tela:
 
 <p align="center">
       <img alt="Código da calculadora de Aposentadoria" src="img/calculadoraAposentadoria.png" width="400px" />
-    </p> 
+</p> 
+
+## :rocket: Desafios 1-2
+
+Conceitos abordados:
+
+- **Objetos**;
+- **Vetores**.
+
+### Construção e impressão de objetos
+
+Programa que armazena dados da empresa Rocketseat dentro de um objeto chamado empresa. 
+
+Imprime em tela utilizando console.log o nome da empresa e seu endereço:
+
+<p align="center">
+      <img alt="Código da impressão de objetos" src="img/empresaRocket.png" width="400px" />
+</p> 
+
+
+
 
 
 
