@@ -109,7 +109,19 @@ Percorre o array de usuários e, para cada um, verifica se o mesmo trabalha com 
 </p> 
 
 
+### Soma de Despesas e Receitas
 
+Programa que calcula a soma de receitas e despesas de usuários e no fim retorna o saldo (receitas - despesas).
+
+Percorre o array de usuários e para cada usuário chama uma função chamada calculaSaldo que recebe como parâmetro as receitas e despesas do usuário.
+
+A função calculaSaldo utiliza a função somaNumeros para calcular a soma de receitas e despesas e no fim retornar o saldo do usuário, ou seja receitas - despesas.
+
+No fim exibe todos usuários em telas, seu respectivo saldo e SE o saldo é POSITIVO ou NEGATIVO:
+
+<p align="center">
+      <img alt="Código da Soma de Despesas e Receitas" src="img/somaDespesasReceitas.png" width="400px" />
+</p> 
 
 
 ---
