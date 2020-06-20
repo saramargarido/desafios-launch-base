@@ -90,6 +90,23 @@ Imprime em tela o nome e especialidade da primeira tecnologia que o usuário uti
       <img alt="Código de Vetores e Objetos" src="img/dadosProgramador.png" width="400px" />
 </p> 
 
+## :rocket: Desafios 1-3
+
+Conceitos abordados:
+
+- **Funções e métodos**;
+- **Estruturas de repetição**;
+- **Escopos**.
+
+### Usuários e tecnologia
+
+Programa que armazena um array de usuários (objetos), cada usuário tem um nome e suas tecnologias (novo array).
+
+Percorre o array de usuários e, para cada um, verifica se o mesmo trabalha com CSS utilizando a função construída, se SIM, imprime em tela as informações do usuário:
+
+<p align="center">
+      <img alt="Código de Usuários e tecnologia" src="img/usuariosCSS.png" width="400px" />
+</p> 
 
 
 
