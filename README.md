@@ -78,6 +78,19 @@ Imprime em tela utilizando console.log o nome da empresa e seu endereço:
 </p> 
 
 
+### Vetores e objetos
+
+Programa com um objeto para armazenar dados de um programador como nome, idade e tecnologias que trabalha.
+
+As tecnologias também devem ser objetos contendo nome e especialidade.
+
+Imprime em tela o nome e especialidade da primeira tecnologia que o usuário utiliza:
+
+<p align="center">
+      <img alt="Código de Vetores e Objetos" src="img/dadosProgramador.png" width="400px" />
+</p> 
+
+
 
 
 
