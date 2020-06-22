@@ -124,6 +124,35 @@ No fim exibe todos usuários em telas, seu respectivo saldo e SE o saldo é POSI
 </p> 
 
 
+## :rocket: Desafios 1-4
+
+Conceitos abordados:
+
+- **Booleanos**;
+- **Organização**;
+- **Padronização**;
+- **Escrita**.
+
+### Transações bancárias
+
+Programa para realizar operações bancárias na conta de um usuário.
+
+Relatórios:
+
+Crie uma função chamada getHigherTransactionByType que recebe como parâmetro o tipo de transação credit/debit, percorre as transações do usuário e retorna o objeto da transação de maior valor com aquele tipo;
+Crie uma função chamada getAverageTransactionValue que retorna o valor médio das transações de um usuário independente do seu tipo;
+Crie uma função chamada getTransactionsCount que retorna o número de transações de cada tipo credit/debit, o retorno da função deve ser um objeto.
+
+
+<p align="center">
+      <img alt="Código de Transações Bancárias" src="img/transactionsCode.png" width="400px" />
+</p> 
+
+<p align="center">
+      <img alt="Resultado no terminal de Transações Bancárias" src="img/transactionsTerminal.png" width="400px" />
+</p> 
+
+
 ---
 
 Made by [Sara Margarido](https://www.linkedin.com/in/saramargarido/)
